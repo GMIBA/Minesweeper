@@ -1,0 +1,66 @@
+.game_board {
+    width: 403px;
+    height: 403px;
+}
+
+.game_board div {
+    width: 25px;
+    height: 25px;
+}
+
+.game_board {
+    border: 1px solid black;
+}
+.flag{
+    background: url('../../public/asset/images/flag.svg') center/cover !important;
+}
+.unopen {
+    background: url('../../public/asset/images/closed.svg') center/cover;
+}
+
+.press {
+    background: url('../../public/asset/images/type0.svg') center/cover !important;
+}
+
+.open {
+    background: url('../../public/asset/images/type0.svg') center/cover  !important;
+}
+
+.opened {
+    background: url('../../public/asset/images/type0.svg') center/cover  !important;
+}
+.type1{
+    background: url('../../public/asset/images/type1.svg') center/cover !important;
+}
+
+.type2{
+    background: url('../../public/asset/images/type2.svg') center/cover !important;
+}
+
+.type3{
+    background: url('../../public/asset/images/type3.svg') center/cover !important;
+}
+
+.type4{
+    background: url('../../public/asset/images/type4.svg') center/cover !important;
+}
+
+.type5{
+    background: url('../../public/asset/images/type5.svg') center/cover !important;
+}
+
+.type6{
+    background: url('../../public/asset/images/type6.svg') center/cover !important;
+}
+
+.type7{
+    background: url('../../public/asset/images/type7.svg') center/cover !important;
+}
+.mine{
+    background: url('../../public/asset/images/mine.svg') center/cover !important;
+}
+
+.redMine{
+    background: url('../../public/asset/images/mine_red.svg') center/cover !important;
+
+}
